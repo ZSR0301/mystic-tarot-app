@@ -1,0 +1,14 @@
+# 隐藏.kilocode和.specify文件夹
+.kilocode/
+.specify/
+
+# 常见的忽略文件
+.DS_Store
+Thumbs.db
+*.log
+node_modules/
+dist/
+build/
+.env
+.env.local
+.env.*.local
