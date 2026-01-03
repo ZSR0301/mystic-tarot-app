@@ -15,7 +15,7 @@
 
 ### 在线体验
 
-直接在浏览器中打开 `tarot.html` 文件即可开始体验。
+直接在浏览器中打开[tarot.html](https://zsr0301.github.io/mystic-tarot-app/tarot.html)即可开始体验。
 
 ### 本地运行
 
